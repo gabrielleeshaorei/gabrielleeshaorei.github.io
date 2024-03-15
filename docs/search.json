@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "NM2207 Computational Media Literacy\n\n1 + 1\n\n[1] 2\n\n\n\nData Visualization"
+    "text": "NM2207 Computational Media Literacy\nGabriel Lee’s Final Project webpage\n\n1 + 1\n\n[1] 2\n\n\n\nData Visualization"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gabriel’s Website",
     "section": "",
-    "text": "Welcome to Gabriel’s NM2207 final project page\n\n1 + 1\n\n[1] 2"
+    "text": "1 + 1\n\n[1] 2\n\n\n```{r}\n#| out.width: \"80%\"\n#| label: fig-airquality\n#| fig-cap: Temperature and ozone level.\n#| warning: false\n#| eval: TRUE\nlibrary(tidyverse)\nggplot(airquality, aes(Temp, Ozone)) +\ngeom_point() +\ngeom_smooth(method = \"loess\")\n18\n```\n```{r}\n\n#| eval=FALSE\n#| out.width=“100%”\nknitr::include_graphics(“path_to_fig”)\n```"
   }
 ]

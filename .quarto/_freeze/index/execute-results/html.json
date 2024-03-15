@@ -1,7 +1,7 @@
 {
-  "hash": "0f1dc851753e23cc605de90b5ac76680",
+  "hash": "bbab7dd393636d9ba9a045f30c0995c4",
   "result": {
-    "markdown": "---\ntitle: \"Gabriel's Website\"\n---\n\n\nWelcome to Gabriel's NM2207 final project page\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Gabriel's Website\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n```{{r}}\n#| out.width: \"80%\"\n#| label: fig-airquality\n#| fig-cap: Temperature and ozone level.\n#| warning: false\n#| eval: TRUE\nlibrary(tidyverse)\nggplot(airquality, aes(Temp, Ozone)) +\ngeom_point() +\ngeom_smooth(method = \"loess\")\n18\n```\n\n\\`\\`\\`{r}\n\n\\\n#\\| eval=FALSE\\\n#\\| out.width=\"100%\"\\\nknitr::include_graphics(\"path_to_fig\")\n\n\\`\\`\\`\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
