@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Welcome to Gabriel's NM2207 final project page
+
+```{r}
+1 + 1
+```
+
+# Data Visualization
