@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "NM2207 Computational Media Literacy\nGabriel Lee’s Final Project webpage\n\n1 + 1\n\n[1] 2\n\n\n\nData Visualization"
+    "text": "NM2207 Computational Media Literacy\n\nGabriel Lee’s Final Project webpage\nHello! My name is Gabriel and I am a second year architecture major. As someone interested in architecture and city planning, I am passionate about developing more efficient urban systems and sustainable transportation methods.\nFor my data study, I have chosen to analyze passenger volume statistics for the train stations in Singapore. By mapping out the locations of each station and comparing it to ridership numbers, my goal is to predict which areas of Singapore see the most traffic based on stations situated nearby popular destinations. I will then examine how well my predictions match up against the actual passenger data collected.\nWhile Singapore is known for its extensive public transportation network, private vehicle ownership is also significant on the island. Therefore, when formulating my hypotheses about high traffic stations, I will need to account for the fact that some trips may be made by car rather than train. Commuter habits, residential densities, and commercial/entertainment centers near each station are all factors that could potentially influence ridership levels.\nBy exploring the relationship between Singapore’s transportation infrastructure, land use patterns, and passenger demand, I hope to gain useful insights. These learnings could inform strategies for designing more rider-focused train routes and urban development plans attuned to mobility needs. My aim with this study is to better understand how transport and planning decisions shape daily commuter behaviors within the city.\n\n\nData Visualization"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gabriel’s Website",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\n```{r}\n#| out.width: \"80%\"\n#| label: fig-airquality\n#| fig-cap: Temperature and ozone level.\n#| warning: false\n#| eval: TRUE\nlibrary(tidyverse)\nggplot(airquality, aes(Temp, Ozone)) +\ngeom_point() +\ngeom_smooth(method = \"loess\")\n18\n```\n```{r}\n\n#| eval=FALSE\n#| out.width=“100%”\nknitr::include_graphics(“path_to_fig”)\n```"
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#data-set",
+    "href": "index.html#data-set",
+    "title": "Gabriel’s Website",
+    "section": "Data Set",
+    "text": "Data Set\nRetrieved from: https://www.kaggle.com/datasets/yorkyong/singapore-passenger-volume-by-train-stations"
   }
 ]

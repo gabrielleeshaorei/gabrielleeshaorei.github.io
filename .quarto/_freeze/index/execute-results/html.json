@@ -1,7 +1,7 @@
 {
-  "hash": "bbab7dd393636d9ba9a045f30c0995c4",
+  "hash": "5a034e20d22638189d976726bda159b2",
   "result": {
-    "markdown": "---\ntitle: \"Gabriel's Website\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n```{{r}}\n#| out.width: \"80%\"\n#| label: fig-airquality\n#| fig-cap: Temperature and ozone level.\n#| warning: false\n#| eval: TRUE\nlibrary(tidyverse)\nggplot(airquality, aes(Temp, Ozone)) +\ngeom_point() +\ngeom_smooth(method = \"loess\")\n18\n```\n\n\\`\\`\\`{r}\n\n\\\n#\\| eval=FALSE\\\n#\\| out.width=\"100%\"\\\nknitr::include_graphics(\"path_to_fig\")\n\n\\`\\`\\`\n",
+    "markdown": "---\ntitle: \"Gabriel's Website\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n```         \n```\n\n```{}\n```\n\n# Singapore Passenger Volume by Train Stations\n\n## Data Set\n\nRetrieved from: <https://www.kaggle.com/datasets/yorkyong/singapore-passenger-volume-by-train-stations>\n\n\\\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

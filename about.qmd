@@ -4,10 +4,14 @@ title: "About"
 
 NM2207 Computational Media Literacy
 
-Gabriel Lee's Final Project webpage
+# Gabriel Lee's Final Project webpage
 
-```{r}
-1 + 1
-```
+Hello! My name is Gabriel and I am a second year architecture major. As someone interested in architecture and city planning, I am passionate about developing more efficient urban systems and sustainable transportation methods.
+
+For my data study, I have chosen to analyze passenger volume statistics for the train stations in Singapore. By mapping out the locations of each station and comparing it to ridership numbers, my goal is to predict which areas of Singapore see the most traffic based on stations situated nearby popular destinations. I will then examine how well my predictions match up against the actual passenger data collected.
+
+While Singapore is known for its extensive public transportation network, private vehicle ownership is also significant on the island. Therefore, when formulating my hypotheses about high traffic stations, I will need to account for the fact that some trips may be made by car rather than train. Commuter habits, residential densities, and commercial/entertainment centers near each station are all factors that could potentially influence ridership levels.
+
+By exploring the relationship between Singapore's transportation infrastructure, land use patterns, and passenger demand, I hope to gain useful insights. These learnings could inform strategies for designing more rider-focused train routes and urban development plans attuned to mobility needs. My aim with this study is to better understand how transport and planning decisions shape daily commuter behaviors within the city.
 
 # Data Visualization

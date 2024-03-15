@@ -6,23 +6,16 @@ title: "Gabriel's Website"
 1 + 1
 ```
 
-```{{r}}
-#| out.width: "80%"
-#| label: fig-airquality
-#| fig-cap: Temperature and ozone level.
-#| warning: false
-#| eval: TRUE
-library(tidyverse)
-ggplot(airquality, aes(Temp, Ozone)) +
-geom_point() +
-geom_smooth(method = "loess")
-18
+```         
 ```
 
-```{r}
-#| eval=TRUE
-#| #| out.width="100%"knitr::include_graphics("path_to_fig")
-
+```{}
 ```
+
+# Singapore Passenger Volume by Train Stations
+
+## Data Set
+
+Retrieved from: <https://www.kaggle.com/datasets/yorkyong/singapore-passenger-volume-by-train-stations>
 
 \
