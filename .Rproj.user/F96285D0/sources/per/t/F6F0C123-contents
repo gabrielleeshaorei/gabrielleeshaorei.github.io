@@ -2,20 +2,18 @@
 title: "Gabriel's Website"
 ---
 
-```{r}
-1 + 1
-```
+```{r, echo=F}
 
-```         
-```
-
-```{}
 ```
 
 # Singapore Passenger Volume by Train Stations
 
 ## Data Set
 
-Retrieved from: <https://www.kaggle.com/datasets/yorkyong/singapore-passenger-volume-by-train-stations>
+### Retrieved from: <https://www.kaggle.com/datasets/yorkyong/singapore-passenger-volume-by-train-stations>
 
-\
+```{r, echo=F}
+knitr::include_graphics("train.jpg")
+```
+
+##### Photo retrieved from: <https://en.wikipedia.org/wiki/SMRT_Trains#/media/File:Kawasaki_C151_refurbished.jpg>

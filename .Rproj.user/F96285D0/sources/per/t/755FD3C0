@@ -3,7 +3,7 @@
     "path": "~/NM2207/gabrielleeshaorei.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "1918145267",
+    "hash": "3797892218",
     "contents": "",
     "dirty": false,
     "created": 1710499476544.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "22,0",
+        "cursorPosition": "12,8",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710504534,
+    "lastKnownWriteTime": 1711111723,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710504534649,
+    "last_content_update": 1711111723940,
     "read_only": false,
     "read_only_alternatives": []
 }

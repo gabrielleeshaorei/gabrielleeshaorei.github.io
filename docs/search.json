@@ -11,13 +11,20 @@
     "href": "index.html",
     "title": "Gabriel’s Website",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Retrieved from: https://www.kaggle.com/datasets/yorkyong/singapore-passenger-volume-by-train-stations"
   },
   {
     "objectID": "index.html#data-set",
     "href": "index.html#data-set",
     "title": "Gabriel’s Website",
-    "section": "Data Set",
-    "text": "Data Set\nRetrieved from: https://www.kaggle.com/datasets/yorkyong/singapore-passenger-volume-by-train-stations"
+    "section": "",
+    "text": "Retrieved from: https://www.kaggle.com/datasets/yorkyong/singapore-passenger-volume-by-train-stations"
+  },
+  {
+    "objectID": "diary.html",
+    "href": "diary.html",
+    "title": "Diary Entry",
+    "section": "",
+    "text": "Week 8\n\n(1) What is the topic that you have finalized? (Answer in 1 or 2 sentences)\nThis study analyzes passenger volume data for Singapore’s train stations to determine if ridership numbers correlate with a station’s proximity to popular destinations and residential areas, providing insight into how urban planning impacts public transportation use.\n(2) What are the data sources that you have curated so far? (Answer 1 or 2 sentences)\nI will be looking at the data source from kaggle collated by user York Yong and analysing it with comparison to the Singapore Map and areas of residential and business areas from data collected from the URA website. The density of residential areas will be viewed and calculated based on the plot ratios as listed on URA’s website.\n\n\n\nWeek 9\n\n(1) What is the question that you are going to answer? (Title: One sentence that ends with a question mark that could act like the title of your data story)\nDoes Singapore’s train ridership numbers correlate to the typologies present in the surrounding areas, such as proximity to major activity centers and residential developments?\n(2) Why is this an important question? (Answer: 3 sentences, each of which has some evidence, e.g., “According to the United Nations…” to justify why the question you have chosen is important)\nAccording to URA, around 67% of Singapore’s population uses public transport which includes the train, especially during peak hours around busy areas (URA, 2020). More detailed data could allow for the correct adjustment of train frequencies per station, as was done during the COVID-19 pandemic where frequencies were increased from 5 minutes to 3 minutes during peak hours to allow commuters to maintain safe distancing (LTA, 2020). The data set collected from analyzing public transport usage, commuter flows, and travel patterns could allow for better planning and possibly the implementation of a hub and spoke model, similar to what is utilized by airports but at a smaller scale for public transport in Singapore (TransVirtual, 2022). The hub and spoke model is a distribution network with a central hub that allows spokes to meet at a central location, and is commonly used in transportation networks.\n(3) Which rows and columns of the dataset will be used to answer this question? (Answer: Actual names of the variables in the dataset that you plan to use)\nThe columns of the data set used in this will be the name of the stations listed under the column: PT_CODE, the other 2 columns of raw data to be analysed will be TOTAL_TAP_IN_VOLUME and TOTAL_TAP_OUT_VOLUME."
   }
 ]
